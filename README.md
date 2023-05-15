@@ -1,5 +1,4 @@
 # Breast Cancer Data Set Using Decision Tree
-Veri Madenciliği İçin Karar Ağacı Sınıflandırma Modeli
 
 Bu proje veri madenciliği dersi proje ödevi olarak yapılmıştır.Veri madenciliği için kullanılan bir karar ağacı sınıflandırma modelinin oluşturulması ve değerlendirilmesini içerir. Veri seti olarak yüklenen veriler kullanılarak model eğitilir ve test edilir. Modelin performansı değerlendirilirken doğruluk skorları kullanılır. Ayrıca, farklı `max_depth` değerleri için modelin doğruluk skorları çizdirilir ve en iyi performans gösteren `max_depth` değeri seçilir. En iyi modelin karar ağacı görselleştirilir ve özelliklerin önem düzeyleri çizdirilir.
 
